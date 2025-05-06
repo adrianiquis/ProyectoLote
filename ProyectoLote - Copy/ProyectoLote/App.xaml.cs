@@ -16,20 +16,22 @@ namespace ProyectoLote
     {
         private void Application_Startup(object sender, StartupEventArgs e)
         {
-            var loginView = new LoginView();
-            loginView.Show();
-            //Nos muetsra login viwe
-            loginView.IsVisibleChanged += (s, ev) =>
+            var inicioView = new InicioView();
+            inicioView.Show();
+
+            inicioView.LoginRequested += (s, ev) =>
             {
-                //
-                if (loginView.IsVisible == false &&
-                    loginView.IsLoaded)
-                {
-                    var mainView = new MainWindow();
-                    mainView.Show();
-                    loginView.Close();
-                }
+                var loginView = new LoginView();
+                loginView.Show();
+                inicioView.Close();
             };
+
+           /* inicioView.RegisterRequested += (s, ev) =>
+            {
+                var registerView = new RegistrarView();
+                registerView.Show();
+                inicioView.Close();
+            };*/
         }
     }
 }

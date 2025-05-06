@@ -1,0 +1,66 @@
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ProyectoLote.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\CustomControl\BindablePasswordBox.g.cs
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\View\LoginView.g.cs
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ProyectoLote_MarkupCompile.cache
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ProyectoLote_MarkupCompile.lref
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\bin\Debug\net8.0-windows\ProyectoLote.exe
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\bin\Debug\net8.0-windows\ProyectoLote.deps.json
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\bin\Debug\net8.0-windows\ProyectoLote.runtimeconfig.json
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\bin\Debug\net8.0-windows\ProyectoLote.dll
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\bin\Debug\net8.0-windows\ProyectoLote.pdb
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\CustomControl\BindablePasswordBox.baml
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\View\LoginView.baml
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ProyectoLote.g.resources
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ProyectoLote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ProyectoLote.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ProyectoLote.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ProyectoLote.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\Proyecto.416D4691.Up2Date
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ProyectoLote.dll
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\refint\ProyectoLote.dll
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ProyectoLote.pdb
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ProyectoLote.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ref\ProyectoLote.dll
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\bin\Debug\net8.0-windows\ProyectoLote.exe
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\bin\Debug\net8.0-windows\ProyectoLote.deps.json
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\bin\Debug\net8.0-windows\ProyectoLote.runtimeconfig.json
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\bin\Debug\net8.0-windows\ProyectoLote.dll
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\bin\Debug\net8.0-windows\ProyectoLote.pdb
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ProyectoLote.csproj.AssemblyReference.cache
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\CustomControl\BindablePasswordBox.g.cs
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\View\LoginView.g.cs
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\App.g.cs
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ProyectoLote_MarkupCompile.cache
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ProyectoLote_MarkupCompile.lref
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\CustomControl\BindablePasswordBox.baml
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\View\LoginView.baml
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ProyectoLote.g.resources
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ProyectoLote.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ProyectoLote.AssemblyInfoInputs.cache
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ProyectoLote.AssemblyInfo.cs
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ProyectoLote.csproj.CoreCompileInputs.cache
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\Proyecto.416D4691.Up2Date
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ProyectoLote.dll
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\refint\ProyectoLote.dll
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ProyectoLote.pdb
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ProyectoLote.genruntimeconfig.cache
+D:\Nani's documents\Documents\Uni\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\ref\ProyectoLote.dll

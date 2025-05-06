@@ -1,0 +1,225 @@
+﻿<Window x:Class="ProyectoLote.View.RegisterView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProyectoLote.View"
+        xmlns:customcontrol="clr-namespace:ProyectoLote.CustomControl"
+        xmlns:viewModel="clr-namespace:ProyectoLote.ViewModel"
+        mc:Ignorable="d"
+        Title="RegisterView" Height="550" Width="800"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        Background="Transparent"
+        AllowsTransparency="True">
+
+	<Window.DataContext>
+		<viewModel:RegisterViewModel/>
+	</Window.DataContext>
+
+	<Border CornerRadius="12">
+		<Border.Background>
+			<ImageBrush ImageSource="/Imagenes/imagen.png" Stretch="None"/>
+		</Border.Background>
+
+		<Border CornerRadius="10" BorderThickness="2" Opacity="0.95">
+			<Border.BorderBrush>
+				<LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+					<GradientStop Color="#462AD8" Offset="0"/>
+					<GradientStop Color="#DA34AE" Offset="0.75"/>
+					<GradientStop Color="#8A16C1" Offset="1"/>
+				</LinearGradientBrush>
+			</Border.BorderBrush>
+
+			<Border.Background>
+				<LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+					<GradientStop Color="#060531" Offset="0"/>
+					<GradientStop Color="LightBlue" Offset="0.75"/>
+					<GradientStop Color="AliceBlue" Offset="1"/>
+				</LinearGradientBrush>
+			</Border.Background>
+
+			<Grid>
+				<Grid.RowDefinitions>
+					<RowDefinition Height="30"/>
+					<RowDefinition/>
+				</Grid.RowDefinitions>
+
+				<!-- Barra superior con botones -->
+				<Grid Grid.Row="0">
+					<Grid.ColumnDefinitions>
+						<ColumnDefinition/>
+						<ColumnDefinition Width="25"/>
+						<ColumnDefinition Width="25"/>
+						<ColumnDefinition Width="5"/>
+					</Grid.ColumnDefinitions>
+
+					<TextBlock Text="REGISTRO"
+                               Foreground="AntiqueWhite"
+                               FontSize="15"
+                               FontFamily="Monserrat"
+                               VerticalAlignment="Center"
+                               Margin="10,0,0,0"/>
+
+					<Button x:Name="btnMinimizar"
+                            BorderThickness="0"
+                            Content="-"
+                            Foreground="White"
+                            FontSize="16"
+                            FontFamily="Monserrat"
+                            Cursor="Hand"
+                            Grid.Column="1"
+                            Click="btnMinimizar_Click">
+						<Button.Style>
+							<Style TargetType="Button">
+								<Setter Property="Background" Value="#28AEED"/>
+								<Style.Triggers>
+									<Trigger Property="IsMouseOver" Value="True">
+										<Setter Property="Background" Value="#278BEF"/>
+									</Trigger>
+								</Style.Triggers>
+							</Style>
+						</Button.Style>
+						<Button.Template>
+							<ControlTemplate TargetType="Button">
+								<Border Width="18" Height="18" CornerRadius="9"
+                                        Background="{TemplateBinding Background}">
+									<ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+								</Border>
+							</ControlTemplate>
+						</Button.Template>
+					</Button>
+
+					<Button x:Name="btnCerrar"
+                            BorderThickness="0"
+                            Content="x"
+                            Foreground="White"
+                            FontSize="12"
+                            FontFamily="Monserrat"
+                            Cursor="Hand"
+                            Grid.Column="2"
+                            Click="btnCerrar_Click">
+						<Button.Style>
+							<Style TargetType="Button">
+								<Setter Property="Background" Value="Red"/>
+								<Style.Triggers>
+									<Trigger Property="IsMouseOver" Value="True">
+										<Setter Property="Background" Value="DarkRed"/>
+									</Trigger>
+								</Style.Triggers>
+							</Style>
+						</Button.Style>
+						<Button.Template>
+							<ControlTemplate TargetType="Button">
+								<Border Width="18" Height="18" CornerRadius="9"
+                                        Background="{TemplateBinding Background}">
+									<ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+								</Border>
+							</ControlTemplate>
+						</Button.Template>
+					</Button>
+				</Grid>
+
+				<!-- Formulario de Registro -->
+				<StackPanel Width="250"
+                            Grid.Row="1"
+                            Orientation="Vertical"
+                            Margin="0,35,0,0"
+                            HorizontalAlignment="Center">
+
+					<Image Source="/Imagenes/user-icon.png"
+                           Width="100"
+                           Height="100"
+                           Margin="0,0,0,10"/>
+
+					<TextBlock Text="Registro de Usuario"
+                               Foreground="White"
+                               FontWeight="Medium"
+                               FontFamily="Monserrat"
+                               HorizontalAlignment="Center"
+                               Margin="0,0,0,20"/>
+
+					<TextBlock Text="Nombre Completo"
+                               Foreground="LightGray"
+                               FontSize="12"
+                               FontFamily="Monserrat"/>
+					<TextBox x:Name="txtNombre"
+                             Text="{Binding NombreCompleto, UpdateSourceTrigger=PropertyChanged}"
+                             FontFamily="Monserrat"
+                             FontSize="13"
+                             Foreground="White"
+                             CaretBrush="LightGray"
+                             BorderBrush="DarkGray"
+                             BorderThickness="0,0,0,2"
+                             Height="20"
+                             Margin="0,5,0,10"
+                             Padding="5,0"/>
+
+					<TextBlock Text="Correo Electrónico"
+                               Foreground="LightGray"
+                               FontSize="12"
+                               FontFamily="Monserrat"/>
+					<TextBox x:Name="txtCorreo"
+                             Text="{Binding CorreoElectronico, UpdateSourceTrigger=PropertyChanged}"
+                             FontFamily="Monserrat"
+                             FontSize="13"
+                             Foreground="White"
+                             CaretBrush="LightGray"
+                             BorderBrush="DarkGray"
+                             BorderThickness="0,0,0,2"
+                             Height="20"
+                             Margin="0,5,0,10"
+                             Padding="5,0"/>
+
+					<TextBlock Text="Contraseña"
+                               Foreground="LightGray"
+                               FontSize="12"
+                               FontFamily="Monserrat"/>
+					<customcontrol:BindablePasswordBox Password="{Binding Password, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                                       Height="28"
+                                                       Margin="0,5,0,10"/>
+
+					<TextBlock Text="Confirmar Contraseña"
+                               Foreground="LightGray"
+                               FontSize="12"
+                               FontFamily="Monserrat"/>
+					<customcontrol:BindablePasswordBox Password="{Binding ConfirmarPassword, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                                       Height="28"
+                                                       Margin="0,5,0,20"/>
+
+					<Button x:Name="btnRegistrar"
+                            Command="{Binding RegistrarCommand}"
+                            BorderThickness="6"
+                            Content="REGISTRAR"
+                            Foreground="DarkGray"
+                            FontSize="14"
+                            FontFamily="Montserrat"
+                            Cursor="Hand"
+                            Margin="0,10,0,0">
+						<Button.Style>
+							<Style TargetType="Button">
+								<Setter Property="Background" Value="#462AD8"/>
+								<Style.Triggers>
+									<Trigger Property="IsMouseOver" Value="True">
+										<Setter Property="Background" Value="#28AEED"/>
+									</Trigger>
+								</Style.Triggers>
+							</Style>
+						</Button.Style>
+						<Button.Template>
+							<ControlTemplate TargetType="Button">
+								<Border Width="150" Height="48" CornerRadius="28"
+                                        Background="{TemplateBinding Background}">
+									<ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+								</Border>
+							</ControlTemplate>
+						</Button.Template>
+					</Button>
+
+				</StackPanel>
+
+			</Grid>
+		</Border>
+	</Border>
+</Window>

@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:ProyectoLote.View"
         xmlns:customcontrol="clr-namespace:ProyectoLote.CustomControl"
         mc:Ignorable="d"
-        Title="LoginView" Height="400" Width="800"
+        Title="LoginView" Height="800" Width="600"
         WindowStartupLocation="CenterScreen"
         WindowStyle="None"
         Background="White">
@@ -118,7 +118,7 @@
 
 		<!-- Formulario -->
 		<Border Grid.Row="2"
-                Margin="20"
+                Margin="20,20,20,20"
                 CornerRadius="10"
                 BorderThickness="1"
                 BorderBrush="LightGray"

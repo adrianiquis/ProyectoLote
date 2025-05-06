@@ -1,41 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\",
+  "WorkspaceRootPath": "D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\semestre4\\net\\proyectolote - copy\\proyectolote\\view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\proyectolote\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\proyectolote\\customcontrol\\bindablepasswordbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\customcontrol\\bindablepasswordbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\proyectolote\\customcontrol\\bindablepasswordbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\customcontrol\\bindablepasswordbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\proyectolote\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\proyectolote\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\proyectolote\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\proyectolote\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\proyectolote\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\proyectolote\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\proyectolote\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote - copy\\proyectolote\\view\\inicioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\view\\inicioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote - copy\\proyectolote\\view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\proyectolote\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\proyectolote\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\proyectolote\\customcontrol\\bindablepasswordbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\customcontrol\\bindablepasswordbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\proyectolote\\customcontrol\\bindablepasswordbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\customcontrol\\bindablepasswordbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\proyectolote\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\proyectolote\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5B4E2E7-0456-418B-8EF2-DA1E28996C0D}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,41 +50,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\ProyectoLote\\App.xaml.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\ProyectoLote\\App.xaml.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\App.xaml.cs",
-              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\ProyectoLote\\App.xaml.cs",
-              "RelativeToolTip": "ProyectoLote\\App.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAwwB8AAAAOAAAAAAAAAA==",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\ProyectoLote\\App.xaml.cs*",
+              "RelativeToolTip": "ProyectoLote\\App.xaml.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T16:33:05.337Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "InicioView.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\ProyectoLote\\View\\InicioView.xaml",
+              "RelativeDocumentMoniker": "ProyectoLote\\View\\InicioView.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\ProyectoLote\\View\\InicioView.xaml",
+              "RelativeToolTip": "ProyectoLote\\View\\InicioView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T19:51:48.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LoginView.xaml.cs",
-              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\ProyectoLote\\View\\LoginView.xaml.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\ProyectoLote\\View\\LoginView.xaml.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\View\\LoginView.xaml.cs",
-              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\ProyectoLote\\View\\LoginView.xaml.cs",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\ProyectoLote\\View\\LoginView.xaml.cs",
               "RelativeToolTip": "ProyectoLote\\View\\LoginView.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T17:03:46.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "LoginView.xaml",
-              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\ProyectoLote\\View\\LoginView.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\ProyectoLote\\View\\LoginView.xaml",
               "RelativeDocumentMoniker": "ProyectoLote\\View\\LoginView.xaml",
-              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\ProyectoLote\\View\\LoginView.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\ProyectoLote\\View\\LoginView.xaml",
               "RelativeToolTip": "ProyectoLote\\View\\LoginView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-24T16:27:11.917Z",
@@ -88,11 +105,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "BindablePasswordBox.xaml.cs",
-              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\ProyectoLote\\CustomControl\\BindablePasswordBox.xaml.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\ProyectoLote\\CustomControl\\BindablePasswordBox.xaml.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\CustomControl\\BindablePasswordBox.xaml.cs",
-              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\ProyectoLote\\CustomControl\\BindablePasswordBox.xaml.cs",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\ProyectoLote\\CustomControl\\BindablePasswordBox.xaml.cs",
               "RelativeToolTip": "ProyectoLote\\CustomControl\\BindablePasswordBox.xaml.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAgwCMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,11 +118,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "BindablePasswordBox.xaml",
-              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\ProyectoLote\\CustomControl\\BindablePasswordBox.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\ProyectoLote\\CustomControl\\BindablePasswordBox.xaml",
               "RelativeDocumentMoniker": "ProyectoLote\\CustomControl\\BindablePasswordBox.xaml",
-              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\ProyectoLote\\CustomControl\\BindablePasswordBox.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\ProyectoLote\\CustomControl\\BindablePasswordBox.xaml",
               "RelativeToolTip": "ProyectoLote\\CustomControl\\BindablePasswordBox.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-26T17:15:27.953Z",
@@ -113,34 +130,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\ProyectoLote\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\ProyectoLote\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ProyectoLote\\MainWindow.xaml",
-              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\ProyectoLote\\MainWindow.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\ProyectoLote\\MainWindow.xaml",
               "RelativeToolTip": "ProyectoLote\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-24T16:19:33.967Z"
+              "WhenOpened": "2025-03-24T16:19:33.967Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "App.config",
-              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\ProyectoLote\\App.config",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\ProyectoLote\\App.config",
               "RelativeDocumentMoniker": "ProyectoLote\\App.config",
-              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\ProyectoLote\\App.config",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\ProyectoLote\\App.config",
               "RelativeToolTip": "ProyectoLote\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-03-24T16:30:41.039Z"
+              "WhenOpened": "2025-03-24T16:30:41.039Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "App.xaml",
-              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\ProyectoLote\\App.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\ProyectoLote\\App.xaml",
               "RelativeDocumentMoniker": "ProyectoLote\\App.xaml",
-              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\ProyectoLote\\App.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\ProyectoLote\\App.xaml",
               "RelativeToolTip": "ProyectoLote\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-24T16:30:28.752Z",
@@ -148,11 +167,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\ProyectoLote\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\ProyectoLote\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\semestre4\\NET\\ProyectoLote - Copy\\ProyectoLote\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLote - Copy\\ProyectoLote\\MainWindow.xaml.cs",
               "RelativeToolTip": "ProyectoLote\\MainWindow.xaml.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
