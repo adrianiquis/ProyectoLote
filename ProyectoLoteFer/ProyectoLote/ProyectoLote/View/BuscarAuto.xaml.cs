@@ -23,5 +23,24 @@ namespace ProyectoLote.View
         {
             InitializeComponent();
         }
+        private void btnCancelar_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
+
+        private void btnMinimizar_Click(object sender, RoutedEventArgs e)
+        {
+            this.WindowState = WindowState.Minimized;
+        }
+
+        private void btnCerrar_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
+        private void btnBuscar_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
+
     }
 }

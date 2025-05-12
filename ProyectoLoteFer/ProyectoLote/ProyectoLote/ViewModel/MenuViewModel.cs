@@ -6,6 +6,7 @@ using System.Threading; // Para Thread.CurrentPrincipal
 using System.Threading.Tasks;
 using ProyectoLote.Model; // Para UserModel
 using ProyectoLote.Repositories; // Para IUserRepository
+using ProyectoLote.ViewModel;
 
 namespace ProyectoLote.View // Asegúrate que el namespace sea correcto
 {

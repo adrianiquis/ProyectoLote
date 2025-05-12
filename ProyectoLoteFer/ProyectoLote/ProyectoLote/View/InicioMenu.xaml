@@ -54,7 +54,7 @@
             <!-- Imagen de encabezado -->
             <Image Grid.Row="0"
                    Grid.ColumnSpan="11"
-                   Source="/Images/imagen2.png"
+                   Source="D:\Nani's documents\Documents\Uni\proyectoVaneEquipo\ProyectoLote\ProyectoLoteFer\ProyectoLote\ProyectoLote\Images\imagen2.png"
                    Height="130"
                    Stretch="Fill"
                    VerticalAlignment="Top"/>

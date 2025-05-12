@@ -4,6 +4,162 @@
              xmlns:local="clr-namespace:ProyectoLote"
              Startup="Application_Startup">
     <Application.Resources>
-         
+        <!-- Estilo para títulos -->
+        <Style x:Key="estiloTitulos" TargetType="ContentControl">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ContentControl">
+                        <Border BorderBrush="BlueViolet"
+                        Height="128"
+                        Width="512"
+                        BorderThickness="6"
+                        CornerRadius="35"
+                        Background="#e7dbff"
+                        Padding="30">
+                            <TextBlock Text="{TemplateBinding Content}"
+                               FontSize="30"
+                               FontFamily="Georgia"
+                               VerticalAlignment="Center"
+                               HorizontalAlignment="Center"
+                               FontStyle="Italic"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Estilo para botones -->
+        <Style x:Key="estiloButtonBase" TargetType="Button">
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="FontSize" Value="24"/>
+            <Setter Property="FontFamily" Value="Montserrat"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Background" Value="#bddeff"/>
+            <Setter Property="BorderBrush" Value="#66abf1"/>
+            <Setter Property="Width" Value="260"/>
+            <Setter Property="Height" Value="80"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border 
+                    BorderBrush="{TemplateBinding BorderBrush}"
+                    Background="{TemplateBinding Background}"
+                    BorderThickness="4"
+                    Padding="20"
+                    CornerRadius="40">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#dffeff"/>
+                    <Setter Property="BorderBrush" Value="#3b75c7"/>
+                </Trigger>
+
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Background" Value="AliceBlue"/>
+                    <Setter Property="BorderBrush" Value="#abcdd1"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <!-- Estilo de botones minimizar y salir -->
+        <Style x:Key="estiloBaseMinSalir" TargetType="Button">
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="FontFamily" Value="Montserrat"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Background" Value="#bddeff"/>
+            <Setter Property="BorderBrush" Value="#66abf1"/>
+            <Setter Property="Width" Value="28"/>
+            <Setter Property="Height" Value="28"/>
+            <Setter Property="Margin" Value="0,5,0,0"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border 
+             BorderBrush="{TemplateBinding BorderBrush}"
+             Background="{TemplateBinding Background}"
+             BorderThickness="0"
+             CornerRadius="20">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#dffeff"/>
+                    <Setter Property="BorderBrush" Value="#3b75c7"/>
+                </Trigger>
+
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Background" Value="AliceBlue"/>
+                    <Setter Property="BorderBrush" Value="#abcdd1"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <!-- Estilo etiquetas que no son títulos -->
+        <Style x:Key="estiloEtiquetas" TargetType="ContentControl">
+            <Setter Property="Height" Value="80"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ContentControl">
+                        <Border BorderBrush="BlueViolet"
+                         Height="80"
+                         Width="193"
+                 BorderThickness="3"
+                 CornerRadius="35"
+                 Background="#e7dbff"
+                 Padding="15">
+                            <TextBlock Text="{TemplateBinding Content}"
+                                TextWrapping="Wrap"
+                                FontSize="18"
+                                FontFamily="Montserrat"
+                                FontWeight="Bold"
+                                VerticalAlignment="Center"
+                                HorizontalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Estilo base de cajas de texto -->
+        <Style x:Key="estiloBaseTextBox" TargetType="TextBox">
+            <Setter Property="Height" Value="80"/>
+            <Setter Property="Width" Value="193"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="TextBox">
+                        <Border BorderBrush="CornflowerBlue"
+                        BorderThickness="3"
+                        CornerRadius="25"
+                        Background="#F7F7F7">
+                            <ScrollViewer x:Name="PART_ContentHost"
+                                  VerticalAlignment="Center"
+                                  HorizontalAlignment="Center"
+                                  Margin="0"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
     </Application.Resources>
 </Application>

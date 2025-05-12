@@ -141,7 +141,7 @@
                     Grid.Column="12"
                     Grid.Row="0"
                     VerticalAlignment="Top"
-                    Click="btnMinimizar_Click"/>
+                    Click="btnMinimizar_Click" Margin="0,0,5,0"/>
 
             <!-- Cerrar -->
             <Button x:Name="btnCerrar"

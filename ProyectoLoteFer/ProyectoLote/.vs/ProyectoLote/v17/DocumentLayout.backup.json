@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote\\proyectolotefer\\proyectolote\\proyectolote\\view\\venta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\view\\venta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote\\proyectolotefer\\proyectolote\\proyectolote\\viewmodel\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\viewmodel\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote\\proyectolotefer\\proyectolote\\proyectolote\\view\\inventarioview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\view\\inventarioview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote\\proyectolotefer\\proyectolote\\proyectolote\\view\\venta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\view\\venta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote\\proyectolotefer\\proyectolote\\proyectolote\\view\\inventarioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -19,20 +19,8 @@
       "RelativeMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote\\proyectolotefer\\proyectolote\\proyectolote\\view\\buscarauto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\view\\buscarauto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote\\proyectolotefer\\proyectolote\\proyectolote\\viewmodel\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\viewmodel\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote\\proyectolotefer\\proyectolote\\proyectolote\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote\\proyectolotefer\\proyectolote\\proyectolote\\model\\carromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\model\\carromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote\\proyectolotefer\\proyectolote\\proyectolote\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -186,14 +174,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "InventarioView.xaml.cs",
-              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\InventarioView.xaml.cs",
-              "RelativeDocumentMoniker": "ProyectoLote\\View\\InventarioView.xaml.cs",
-              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\InventarioView.xaml.cs*",
-              "RelativeToolTip": "ProyectoLote\\View\\InventarioView.xaml.cs*",
-              "ViewState": "AgIAADIAAAAAAAAAAAAMwEAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T10:00:15.023Z",
+              "Title": "Venta.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\Venta.xaml",
+              "RelativeDocumentMoniker": "ProyectoLote\\View\\Venta.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\Venta.xaml",
+              "RelativeToolTip": "ProyectoLote\\View\\Venta.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T09:58:06.631Z",
               "EditorCaption": ""
             },
             {
@@ -202,45 +189,20 @@
               "Title": "InventarioView.xaml",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\InventarioView.xaml",
               "RelativeDocumentMoniker": "ProyectoLote\\View\\InventarioView.xaml",
-              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\InventarioView.xaml*",
-              "RelativeToolTip": "ProyectoLote\\View\\InventarioView.xaml*",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\InventarioView.xaml",
+              "RelativeToolTip": "ProyectoLote\\View\\InventarioView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-12T09:59:30.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T09:59:30.742Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Venta.xaml",
-              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\Venta.xaml",
-              "RelativeDocumentMoniker": "ProyectoLote\\View\\Venta.xaml",
-              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\Venta.xaml*",
-              "RelativeToolTip": "ProyectoLote\\View\\Venta.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-12T09:58:06.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BuscarAuto.xaml",
-              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\BuscarAuto.xaml",
-              "RelativeDocumentMoniker": "ProyectoLote\\View\\BuscarAuto.xaml",
-              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\BuscarAuto.xaml*",
-              "RelativeToolTip": "ProyectoLote\\View\\BuscarAuto.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-12T09:57:07.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "MenuViewModel.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\ViewModel\\MenuViewModel.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\ViewModel\\MenuViewModel.cs",
               "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\ViewModel\\MenuViewModel.cs*",
               "RelativeToolTip": "ProyectoLote\\ViewModel\\MenuViewModel.cs*",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAWwE8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T08:45:31.522Z",
               "EditorCaption": ""
@@ -255,12 +217,11 @@
               "RelativeToolTip": "ProyectoLote\\View\\LoginView.xaml.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAApwBcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T04:00:17.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T04:00:17.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "ViewModelBase.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\ViewModel\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\ViewModel\\ViewModelBase.cs",
@@ -268,25 +229,11 @@
               "RelativeToolTip": "ProyectoLote\\ViewModel\\ViewModelBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T17:27:43.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T17:27:43.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CarroModel.cs",
-              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Model\\CarroModel.cs",
-              "RelativeDocumentMoniker": "ProyectoLote\\Model\\CarroModel.cs",
-              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Model\\CarroModel.cs",
-              "RelativeToolTip": "ProyectoLote\\Model\\CarroModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T09:48:12.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "ViewModelCommand.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\ViewModel\\ViewModelCommand.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\ViewModel\\ViewModelCommand.cs",
@@ -298,32 +245,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "LoginView.xaml",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\LoginView.xaml",
               "RelativeDocumentMoniker": "ProyectoLote\\View\\LoginView.xaml",
               "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\LoginView.xaml",
               "RelativeToolTip": "ProyectoLote\\View\\LoginView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-02T03:55:28.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T03:55:28.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "UserModel.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Model\\UserModel.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\Model\\UserModel.cs",
-              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Model\\UserModel.cs*",
-              "RelativeToolTip": "ProyectoLote\\Model\\UserModel.cs*",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Model\\UserModel.cs",
+              "RelativeToolTip": "ProyectoLote\\Model\\UserModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T16:34:12.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T16:34:12.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "InicioMenu.g.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\obj\\Debug\\net8.0-windows\\View\\InicioMenu.g.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\obj\\Debug\\net8.0-windows\\View\\InicioMenu.g.cs",
@@ -331,12 +276,11 @@
               "RelativeToolTip": "ProyectoLote\\obj\\Debug\\net8.0-windows\\View\\InicioMenu.g.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:37:21.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T08:37:21.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "BindablePasswordBox.xaml",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\CustomControl\\BindablePasswordBox.xaml",
               "RelativeDocumentMoniker": "ProyectoLote\\CustomControl\\BindablePasswordBox.xaml",
@@ -347,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "InicioMenu.xaml",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\InicioMenu.xaml",
               "RelativeDocumentMoniker": "ProyectoLote\\View\\InicioMenu.xaml",
@@ -358,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "InicioMenu.xaml.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\InicioMenu.xaml.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\View\\InicioMenu.xaml.cs",
@@ -370,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "RegistroView.xaml.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\RegistroView.xaml.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\View\\RegistroView.xaml.cs",
@@ -382,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "Window1.xaml",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\Window1.xaml",
               "RelativeDocumentMoniker": "ProyectoLote\\View\\Window1.xaml",
@@ -393,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 16,
               "Title": "PantallaInicio.xaml",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\PantallaInicio.xaml",
               "RelativeDocumentMoniker": "ProyectoLote\\View\\PantallaInicio.xaml",
@@ -404,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 14,
               "Title": "InicioView.g.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\obj\\Debug\\net8.0-windows\\View\\InicioView.g.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\obj\\Debug\\net8.0-windows\\View\\InicioView.g.cs",
@@ -416,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 20,
               "Title": "AgregaAuto.xaml",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\AgregaAuto.xaml",
               "RelativeDocumentMoniker": "ProyectoLote\\View\\AgregaAuto.xaml",
@@ -427,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "PantallaInicio.xaml.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\PantallaInicio.xaml.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\View\\PantallaInicio.xaml.cs",
@@ -439,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 18,
               "Title": "AgregaAuto.xaml.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\AgregaAuto.xaml.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\View\\AgregaAuto.xaml.cs",
@@ -451,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 17,
               "Title": "RegistroView.xaml",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\RegistroView.xaml",
               "RelativeDocumentMoniker": "ProyectoLote\\View\\RegistroView.xaml",
@@ -462,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 19,
               "Title": "LoginView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\elsae\\AppData\\Local\\SourceServer\\757ad1f6aeadd83d16be0ab33785b9d6a3b3f38255f8246232b6fac84d50526a\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\LoginView.xaml.cs",
               "ToolTip": "C:\\Users\\elsae\\AppData\\Local\\SourceServer\\757ad1f6aeadd83d16be0ab33785b9d6a3b3f38255f8246232b6fac84d50526a\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\LoginView.xaml.cs",
@@ -472,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 21,
               "Title": "CarroRepository.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Repositories\\CarroRepository.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\Repositories\\CarroRepository.cs",
@@ -484,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 23,
               "Title": "CompraModel.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Model\\CompraModel.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\Model\\CompraModel.cs",
@@ -496,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 24,
               "Title": "VendedorRepository.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Repositories\\VendedorRepository.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\Repositories\\VendedorRepository.cs",
@@ -508,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 22,
               "Title": "CompraRepository.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Repositories\\CompraRepository.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\Repositories\\CompraRepository.cs",
@@ -520,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 25,
               "Title": "IVendedorRepository.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Repositories\\IVendedorRepository.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\Repositories\\IVendedorRepository.cs",
@@ -532,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 26,
               "Title": "VendedorModel.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Model\\VendedorModel.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\Model\\VendedorModel.cs",
@@ -544,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 27,
               "Title": "ICompraRepository.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Repositories\\ICompraRepository.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\Repositories\\ICompraRepository.cs",
@@ -556,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 31,
               "Title": "RepositoryBase.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Repositories\\RepositoryBase.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\Repositories\\RepositoryBase.cs",
@@ -568,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 28,
               "Title": "BindablePasswordBox.xaml.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\CustomControl\\BindablePasswordBox.xaml.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\CustomControl\\BindablePasswordBox.xaml.cs",
@@ -580,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 30,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\App.xaml",
               "RelativeDocumentMoniker": "ProyectoLote\\App.xaml",
@@ -592,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 29,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\App.xaml.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\App.xaml.cs",
@@ -604,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 32,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\Repositories\\UserRepository.cs",
@@ -616,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 34,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Model\\IUserRepository.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\Model\\IUserRepository.cs",
@@ -628,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 33,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\ViewModel\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\ViewModel\\LoginViewModel.cs",
@@ -640,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 35,
               "Title": "ProyectoLote.csproj",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\ProyectoLote.csproj",
               "RelativeDocumentMoniker": "ProyectoLote\\ProyectoLote.csproj",
@@ -652,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 37,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\MainWindow.xaml.cs",
@@ -664,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 36,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ProyectoLote\\MainWindow.xaml",
@@ -675,7 +619,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 38,
               "Title": "icon.png",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Images\\icon.png",
               "RelativeDocumentMoniker": "ProyectoLote\\Images\\icon.png",
