@@ -25,9 +25,9 @@
                  Converter="{StaticResource BooleanToVisibility}"/>
     </Window.Visibility>
     <Border CornerRadius="12" >
- <!--       <Border.Background>
-            <ImageBrush ImageSource="/Images/imagen.png"/>
-        </Border.Background> -->
+        <Border.Background>
+            <ImageBrush ImageSource="D:\Nani's documents\Documents\Uni\ProyectoVaneEquipo\ProyectoLoteFer\ProyectoLote\ProyectoLote\Images\imagen.png"/>
+        </Border.Background> 
         <Border CornerRadius="10" BorderThickness="2" Opacity="0.95">
             <Border.BorderBrush>
                 <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
@@ -126,7 +126,7 @@
                             Grid.Row="1"
                             Orientation="Vertical"
                             Margin="0, 35, 0, 0">
-                    <Image Source="/Images/logoCardealer.png"
+                    <Image Source="D:\Nani's documents\Documents\Uni\ProyectoVaneEquipo\ProyectoLoteFer\ProyectoLote\ProyectoLote\Images\logoCardealer.png"
                            Width="100"
                            Height="100"/>
                     <TextBlock Text=""
@@ -161,11 +161,11 @@
                              VerticalAlignment="Center"
                              Margin="0,5,0,0"
                              Padding="20,0,0,0">
-                   <!--  <TextBox.Background>
-                            <ImageBrush ImageSource="/Images/user-icon.png"
+                     <TextBox.Background>
+                            <ImageBrush ImageSource="D:\Nani's documents\Documents\Uni\ProyectoVaneEquipo\ProyectoLoteFer\ProyectoLote\ProyectoLote\Images\user-icon.png"
                                     Stretch="None"
                                     AlignmentX="Left"/>
-                        </TextBox.Background> -->
+                        </TextBox.Background> 
                     </TextBox>
                     <TextBlock Text="Password"
                                Foreground="LightGray"
@@ -177,7 +177,7 @@
                         Password="{Binding Password,
                         Mode=TwoWay, 
                         UpdateSourceTrigger=PropertyChanged}"
-                        Height="28"
+                        Height="39"
                         Margin="0,5,0,0">
                         
                     </customcontrol:BindablePasswordBox>

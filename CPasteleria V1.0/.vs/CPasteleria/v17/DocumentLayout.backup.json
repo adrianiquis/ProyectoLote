@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|c:\\users\\usuario\\documents\\estructura de datos\\proyectolote\\cpasteleria v1.0\\cpasteleria\\view\\registroview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\registroview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -36,6 +37,9 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\cpasteleria\\repositories\\carritorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|c:\\users\\usuario\\documents\\estructura de datos\\proyectolote\\cpasteleria v1.0\\cpasteleria\\repositories\\carritorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> cada6f2f6dbb0675bb4a8d4b98307f78944f75d3
       "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\repositories\\carritorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -43,10 +47,84 @@
       "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\inventariomostrarview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\cpasteleria\\view\\inventariomostrarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\inventariomostrarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\cpasteleria\\view\\menuinicioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\menuinicioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\cpasteleria\\view\\iniciosesionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\iniciosesionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+>>>>>>> cada6f2f6dbb0675bb4a8d4b98307f78944f75d3
       "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\cpasteleria\\customcontrols\\customynmessagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\customcontrols\\customynmessagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\cpasteleria\\view\\menuventasview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\menuventasview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\cpasteleria\\view\\inventariobuscarview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\inventariobuscarview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\cpasteleria\\view\\inventariobuscarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\inventariobuscarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\cpasteleria\\view\\menuinventarioview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\menuinventarioview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\cpasteleria\\view\\menuinventarioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\menuinventarioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\cpasteleria\\view\\verventasidview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\verventasidview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\cpasteleria\\view\\ventascantidadview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\ventascantidadview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\cpasteleria\\view\\ventascarritoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\ventascarritoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\cpasteleria\\view\\realizarventaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\realizarventaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\cpasteleria\\view\\inicioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\inicioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\cpasteleria\\view\\inventarioagregarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\inventarioagregarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\cpasteleria\\view\\inventariobuscarnombreview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\inventariobuscarnombreview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\cpasteleria\\view\\inventarioeditarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\inventarioeditarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\cpasteleria\\view\\inventarioquitarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\inventarioquitarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+>>>>>>> cada6f2f6dbb0675bb4a8d4b98307f78944f75d3
       "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\cpasteleria\\images\\backgrounds\\fondoinicio.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\images\\backgrounds\\fondoinicio.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
@@ -118,7 +196,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,7 +204,53 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InicioSesionView.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\InicioSesionView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\InicioSesionView.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\InicioSesionView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\InicioSesionView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T00:41:49.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventarioMostrarView.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\InventarioMostrarView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\InventarioMostrarView.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\InventarioMostrarView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\InventarioMostrarView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:21:05.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventarioMostrarView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\InventarioMostrarView.xaml.cs",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\InventarioMostrarView.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\InventarioMostrarView.xaml.cs",
+              "RelativeToolTip": "CPasteleria\\View\\InventarioMostrarView.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:58:51.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuVentasView.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\MenuVentasView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\MenuVentasView.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\MenuVentasView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\MenuVentasView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T00:00:34.948Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "RegistroView.xaml",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\RegistroView.xaml",
               "RelativeDocumentMoniker": "CPasteleria\\View\\RegistroView.xaml",
@@ -172,6 +296,8 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
+=======
+>>>>>>> cada6f2f6dbb0675bb4a8d4b98307f78944f75d3
               "Title": "CarritoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\Repositories\\CarritoRepository.cs",
               "RelativeDocumentMoniker": "CPasteleria\\Repositories\\CarritoRepository.cs",
@@ -179,6 +305,7 @@
               "RelativeToolTip": "CPasteleria\\Repositories\\CarritoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2025-05-11T22:05:55.423Z"
             },
             {
@@ -214,6 +341,10 @@
               "ViewState": "AgIAABMAAAAAAAAAAAAzwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T22:58:51.173Z"
+=======
+              "WhenOpened": "2025-05-11T22:05:55.423Z",
+              "EditorCaption": ""
+>>>>>>> cada6f2f6dbb0675bb4a8d4b98307f78944f75d3
             },
             {
               "$type": "Document",
@@ -228,6 +359,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
               "Title": "InicioSesionView.xaml",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\InicioSesionView.xaml",
@@ -247,10 +379,168 @@
               "RelativeToolTip": "CPasteleria\\View\\InventarioMostrarView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-11T22:21:05.019Z"
+=======
+              "DocumentIndex": 5,
+              "Title": "CustomYNMessageBox.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\CustomControls\\CustomYNMessageBox.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\CustomControls\\CustomYNMessageBox.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\CustomControls\\CustomYNMessageBox.xaml",
+              "RelativeToolTip": "CPasteleria\\CustomControls\\CustomYNMessageBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:01:10.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "View\\InventarioBuscarView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\InventarioBuscarView.xaml.cs",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\InventarioBuscarView.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\InventarioBuscarView.xaml.cs",
+              "RelativeToolTip": "CPasteleria\\View\\InventarioBuscarView.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:57:55.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "View\\MenuInventarioView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\MenuInventarioView.xaml.cs",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\MenuInventarioView.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\MenuInventarioView.xaml.cs",
+              "RelativeToolTip": "CPasteleria\\View\\MenuInventarioView.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:57:30.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuInventarioView.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\MenuInventarioView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\MenuInventarioView.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\MenuInventarioView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\MenuInventarioView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:57:24.024Z"
+>>>>>>> cada6f2f6dbb0675bb4a8d4b98307f78944f75d3
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+<<<<<<< HEAD
+=======
+              "Title": "VerVentasIdView.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\VerVentasIdView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\VerVentasIdView.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\VerVentasIdView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\VerVentasIdView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:21:38.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VentasCantidadView.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\VentasCantidadView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\VentasCantidadView.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\VentasCantidadView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\VentasCantidadView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:21:33.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventarioBuscarView.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\InventarioBuscarView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\InventarioBuscarView.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\InventarioBuscarView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\InventarioBuscarView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:21:11.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VentasCarritoView.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\VentasCarritoView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\VentasCarritoView.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\VentasCarritoView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\VentasCarritoView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:21:30.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RealizarVentaView.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\RealizarVentaView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\RealizarVentaView.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\RealizarVentaView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\RealizarVentaView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:21:25.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InicioView.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\InicioView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\InicioView.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\InicioView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\InicioView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:21:22.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InventarioAgregarView.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\InventarioAgregarView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\InventarioAgregarView.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\InventarioAgregarView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\InventarioAgregarView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:21:17.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InventarioBuscarNombreView.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\InventarioBuscarNombreView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\InventarioBuscarNombreView.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\InventarioBuscarNombreView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\InventarioBuscarNombreView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:21:14.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InventarioEditarView.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\InventarioEditarView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\InventarioEditarView.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\InventarioEditarView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\InventarioEditarView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:21:08.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InventarioQuitarView.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\InventarioQuitarView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\InventarioQuitarView.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\View\\InventarioQuitarView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\InventarioQuitarView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:21:01.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+>>>>>>> cada6f2f6dbb0675bb4a8d4b98307f78944f75d3
               "Title": "FondoInicio.png - PNG [1920x1080, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\Images\\Backgrounds\\FondoInicio.png",
               "RelativeDocumentMoniker": "CPasteleria\\Images\\Backgrounds\\FondoInicio.png",
@@ -260,7 +550,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 12,
+=======
+              "DocumentIndex": 21,
+>>>>>>> cada6f2f6dbb0675bb4a8d4b98307f78944f75d3
               "Title": "FondoMessageBox.png - PNG [1920x1080, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\Images\\Backgrounds\\FondoMessageBox.png",
               "RelativeDocumentMoniker": "CPasteleria\\Images\\Backgrounds\\FondoMessageBox.png",
@@ -270,7 +564,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 13,
+=======
+              "DocumentIndex": 22,
+>>>>>>> cada6f2f6dbb0675bb4a8d4b98307f78944f75d3
               "Title": "FondoSegundo.png - PNG [1920x1080, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\Images\\Backgrounds\\FondoSegundo.png",
               "RelativeDocumentMoniker": "CPasteleria\\Images\\Backgrounds\\FondoSegundo.png",
@@ -280,7 +578,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 14,
+=======
+              "DocumentIndex": 23,
+>>>>>>> cada6f2f6dbb0675bb4a8d4b98307f78944f75d3
               "Title": "FondoTercero.png - PNG [1920x1080, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\Images\\Backgrounds\\FondoTercero.png",
               "RelativeDocumentMoniker": "CPasteleria\\Images\\Backgrounds\\FondoTercero.png",
@@ -290,7 +592,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 20,
+=======
+              "DocumentIndex": 29,
+>>>>>>> cada6f2f6dbb0675bb4a8d4b98307f78944f75d3
               "Title": "DetalleVentaRepository.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\Repositories\\DetalleVentaRepository.cs",
               "RelativeDocumentMoniker": "CPasteleria\\Repositories\\DetalleVentaRepository.cs",
@@ -302,7 +608,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 16,
+=======
+              "DocumentIndex": 25,
+>>>>>>> cada6f2f6dbb0675bb4a8d4b98307f78944f75d3
               "Title": "DetalleVentaModel.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\Model\\DetalleVentaModel.cs",
               "RelativeDocumentMoniker": "CPasteleria\\Model\\DetalleVentaModel.cs",
@@ -314,7 +624,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 15,
+=======
+              "DocumentIndex": 24,
+>>>>>>> cada6f2f6dbb0675bb4a8d4b98307f78944f75d3
               "Title": "CarritoModel.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\Model\\CarritoModel.cs",
               "RelativeDocumentMoniker": "CPasteleria\\Model\\CarritoModel.cs",
@@ -326,7 +640,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 18,
+=======
+              "DocumentIndex": 27,
+>>>>>>> cada6f2f6dbb0675bb4a8d4b98307f78944f75d3
               "Title": "PastelModel.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\Model\\PastelModel.cs",
               "RelativeDocumentMoniker": "CPasteleria\\Model\\PastelModel.cs",
@@ -338,7 +656,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 17,
+=======
+              "DocumentIndex": 26,
+>>>>>>> cada6f2f6dbb0675bb4a8d4b98307f78944f75d3
               "Title": "EmpleadoModel.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\Model\\EmpleadoModel.cs",
               "RelativeDocumentMoniker": "CPasteleria\\Model\\EmpleadoModel.cs",
@@ -350,7 +672,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 19,
+=======
+              "DocumentIndex": 28,
+>>>>>>> cada6f2f6dbb0675bb4a8d4b98307f78944f75d3
               "Title": "VentaModel.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\Model\\VentaModel.cs",
               "RelativeDocumentMoniker": "CPasteleria\\Model\\VentaModel.cs",
@@ -362,7 +688,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 21,
+=======
+              "DocumentIndex": 30,
+>>>>>>> cada6f2f6dbb0675bb4a8d4b98307f78944f75d3
               "Title": "PastelRepository.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\Repositories\\PastelRepository.cs",
               "RelativeDocumentMoniker": "CPasteleria\\Repositories\\PastelRepository.cs",
@@ -374,7 +704,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 22,
+=======
+              "DocumentIndex": 31,
+>>>>>>> cada6f2f6dbb0675bb4a8d4b98307f78944f75d3
               "Title": "EmpleadoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\Repositories\\EmpleadoRepository.cs",
               "RelativeDocumentMoniker": "CPasteleria\\Repositories\\EmpleadoRepository.cs",
@@ -386,7 +720,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 23,
+=======
+              "DocumentIndex": 32,
+>>>>>>> cada6f2f6dbb0675bb4a8d4b98307f78944f75d3
               "Title": "CustomOkMessageBox.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\CustomControls\\CustomOkMessageBox.xaml.cs",
               "RelativeDocumentMoniker": "CPasteleria\\CustomControls\\CustomOkMessageBox.xaml.cs",
@@ -398,7 +736,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 24,
+=======
+              "DocumentIndex": 33,
+>>>>>>> cada6f2f6dbb0675bb4a8d4b98307f78944f75d3
               "Title": "CustomYNMessageBox.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\CustomControls\\CustomYNMessageBox.xaml.cs",
               "RelativeDocumentMoniker": "CPasteleria\\CustomControls\\CustomYNMessageBox.xaml.cs",
@@ -410,7 +752,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 25,
+=======
+              "DocumentIndex": 34,
+>>>>>>> cada6f2f6dbb0675bb4a8d4b98307f78944f75d3
               "Title": "CustomOkMessageBox.xaml",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\CustomControls\\CustomOkMessageBox.xaml",
               "RelativeDocumentMoniker": "CPasteleria\\CustomControls\\CustomOkMessageBox.xaml",
@@ -421,7 +767,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 26,
+=======
+              "DocumentIndex": 35,
+>>>>>>> cada6f2f6dbb0675bb4a8d4b98307f78944f75d3
               "Title": "BindablePasswordBox.xaml",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Estructura de datos\\ProyectoLote\\CPasteleria V1.0\\CPasteleria\\CustomControls\\BindablePasswordBox.xaml",
               "RelativeDocumentMoniker": "CPasteleria\\CustomControls\\BindablePasswordBox.xaml",
