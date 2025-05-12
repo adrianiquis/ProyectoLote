@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 D:\Nani's documents\Documents\Uni\proyectoVaneEquipo\ProyectoLote\ProyectoLoteFer\ProyectoLote\ProyectoLote\App.xaml
-11-2115135987
+10-1890840976
 
-331382686588
+321377043654
 199684286521
-CustomControl\BindablePasswordBox.xaml;MainWindow.xaml;View\AgregaAuto.xaml;View\BuscarAuto.xaml;View\InicioMenu.xaml;View\InventarioView.xaml;View\LoginView.xaml;View\PantallaInicio.xaml;View\RegistroView.xaml;View\Venta.xaml;View\Window1.xaml;
+CustomControl\BindablePasswordBox.xaml;MainWindow.xaml;View\AgregaAuto.xaml;View\BuscarAuto.xaml;View\InicioMenu.xaml;View\InventarioView.xaml;View\LoginView.xaml;View\PantallaInicio.xaml;View\RegistroView.xaml;View\Venta.xaml;
 
 True
 

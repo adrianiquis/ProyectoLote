@@ -180,3 +180,5 @@ D:\Nani's documents\Documents\Uni\proyectoVaneEquipo\ProyectoLote\ProyectoLoteFe
 D:\Nani's documents\Documents\Uni\proyectoVaneEquipo\ProyectoLote\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\View\BuscarAuto.g.cs
 D:\Nani's documents\Documents\Uni\proyectoVaneEquipo\ProyectoLote\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\View\InventarioView.g.cs
 D:\Nani's documents\Documents\Uni\proyectoVaneEquipo\ProyectoLote\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\View\Venta.g.cs
+D:\Nani's documents\Documents\Uni\proyectoVaneEquipo\ProyectoLote\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\View\BuscarAuto.baml
+D:\Nani's documents\Documents\Uni\proyectoVaneEquipo\ProyectoLote\ProyectoLoteFer\ProyectoLote\ProyectoLote\obj\Debug\net8.0-windows\View\InicioMenu.baml

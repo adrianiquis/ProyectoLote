@@ -34,9 +34,6 @@
     <Compile Update="View\Venta.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\Window1.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="CustomControl\BindablePasswordBox.xaml">

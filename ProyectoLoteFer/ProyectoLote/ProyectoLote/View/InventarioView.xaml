@@ -17,7 +17,7 @@
 
         <Grid>
             <!-- Imagen superior -->
-            <Image Source="D:\ProyectoLoteFer\ProyectoLote\ProyectoLote\Images\imagen2.png" Height="130" Stretch="Fill" VerticalAlignment="Top"/>
+            <Image Source="D:\Nani's documents\Documents\Uni\proyectoVaneEquipo\ProyectoLote\ProyectoLoteFer\ProyectoLote\ProyectoLote\Images\imagen2.png" Height="130" Stretch="Fill" VerticalAlignment="Top"/>
 
             <!-- TITULO -->
             <Border Background="#333" Height="35" VerticalAlignment="Top" Margin="0,130,0,0">

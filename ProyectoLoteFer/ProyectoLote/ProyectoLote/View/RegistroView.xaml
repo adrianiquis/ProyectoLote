@@ -40,7 +40,7 @@
                VerticalAlignment="Center"/>
         </Border>
 
-        <!-- Contenido de registro estilo CPasteleria -->
+        <!-- Contenido de registro estilo -->
         <Grid Margin="50,170,50,30">
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto"/>

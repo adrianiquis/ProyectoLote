@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Win32;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,44 +13,46 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
+
 namespace ProyectoLote.View
 {
-    /// <summary>
-    /// Interaction logic for PantallaInicio.xaml
-    /// </summary>
     public partial class PantallaInicio : Window
     {
         public PantallaInicio()
         {
             InitializeComponent();
         }
-        private void btnCancelar_Click(object sender, RoutedEventArgs e)
-        {
-            this.Close();
-        }
 
         private void btnMinimizar_Click(object sender, RoutedEventArgs e)
         {
+
             this.WindowState = WindowState.Minimized;
         }
 
         private void btnCerrar_Click(object sender, RoutedEventArgs e)
         {
+
             this.Close();
         }
-        
+
         private void btnInicioSesion_Click(object sender, RoutedEventArgs e)
         {
+            var login = new LoginView();
+            login.Show();
             this.Close();
         }
+
         private void btnRegistro_Click(object sender, RoutedEventArgs e)
         {
+            var registro = new RegistroView();
+            registro.Show();
             this.Close();
         }
-        
+
         private void btnSalir_Click(object sender, RoutedEventArgs e)
         {
-            this.Close();
+
+            Application.Current.Shutdown();
         }
     }
 }
