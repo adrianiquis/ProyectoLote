@@ -26,7 +26,7 @@
     </Window.Visibility>
     <Border CornerRadius="12" >
         <Border.Background>
-            <ImageBrush ImageSource="C:\Users\Usuario\Documents\Estructura de datos\ProyectoLote\ProyectoLoteFer\ProyectoLote\ProyectoLote\Images\imagen.png"/>
+            <ImageBrush ImageSource="D:\Nani's documents\Documents\Uni\proyectoVaneEquipo\ProyectoLote\ProyectoLoteFer\ProyectoLote\ProyectoLote\Images\imagen2.png"/>
         </Border.Background> 
         <Border CornerRadius="10" BorderThickness="2" Opacity="0.95">
             <Border.BorderBrush>
@@ -126,7 +126,7 @@
                             Grid.Row="1"
                             Orientation="Vertical"
                             Margin="0, 35, 0, 0">
-                    <Image Source="C:\Users\Usuario\Documents\Estructura de datos\ProyectoLote\ProyectoLoteFer\ProyectoLote\ProyectoLote\Images\logoCardealer.png"
+                    <Image Source="D:\Nani's documents\Documents\Uni\proyectoVaneEquipo\ProyectoLote\ProyectoLoteFer\ProyectoLote\ProyectoLote\Images\logoCardealer.png"
                            Width="100"
                            Height="100"/>
                     <TextBlock Text=""
@@ -162,7 +162,7 @@
                              Margin="0,5,0,0"
                              Padding="20,0,0,0">
                      <TextBox.Background>
-                            <ImageBrush ImageSource="C:\Users\Usuario\Documents\Estructura de datos\ProyectoLote\ProyectoLoteFer\ProyectoLote\ProyectoLote\Images\user-icon.png"
+                            <ImageBrush ImageSource="D:\Nani's documents\Documents\Uni\proyectoVaneEquipo\ProyectoLote\ProyectoLoteFer\ProyectoLote\ProyectoLote\Images\user-icon.png"
                                     Stretch="None"
                                     AlignmentX="Left"/>
                         </TextBox.Background> 

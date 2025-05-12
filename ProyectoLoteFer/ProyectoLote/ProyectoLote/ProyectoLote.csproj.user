@@ -10,7 +10,31 @@
     <Compile Update="CustomControl\BindablePasswordBox.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="View\AgregaAuto.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\BuscarAuto.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\InicioMenu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\InventarioView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="View\LoginView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\PantallaInicio.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\RegistroView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Venta.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Window1.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
