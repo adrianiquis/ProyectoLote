@@ -1,0 +1,89 @@
+﻿<Window x:Class="CPasteleria.View.VentasQuitarView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CPasteleria.View"
+        mc:Ignorable="d"
+        Title="Quitando pastel del carrito" Height="540" Width="960"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        Background="Transparent"
+        AllowsTransparency="True">
+    <Border CornerRadius="15">
+        <Border.Background>
+            <ImageBrush ImageSource="/Images/Backgrounds/FondoSegundo.png"/>
+        </Border.Background>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="24"/>
+                <RowDefinition Height="128"/>
+                <RowDefinition Height="75"/>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="75"/>
+                <RowDefinition Height="80"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="203"/>
+                <ColumnDefinition Width="21"/>
+                <ColumnDefinition Width="56"/>
+                <ColumnDefinition Width="193"/>
+                <ColumnDefinition Width="14"/>
+                <ColumnDefinition Width="193"/>
+                <ColumnDefinition Width="56"/>
+                <ColumnDefinition Width="21"/>
+                <ColumnDefinition Width="133"/>
+                <ColumnDefinition Width="30"/>
+                <ColumnDefinition Width="30"/>
+            </Grid.ColumnDefinitions>
+
+            <ContentControl x:Name="Titulo"
+                            Style="{StaticResource estiloTitulos}"
+                            Content="Quitar pastel de carrito"
+                            Grid.Column="2"
+                            Grid.ColumnSpan="5"
+                            Grid.Row="2"/>
+
+            <ContentControl x:Name="etNombre"
+                            Style="{StaticResource estiloEtiquetas}"
+                            Content="Nombre:"
+                            Grid.Column="3"
+                            Grid.Row="4"/>
+
+            <ComboBox x:Name="seleccionNombre"
+                      Style="{StaticResource comboBoxEstiloBase}"
+                      ItemsSource="{Binding ListaNombres}"
+                      Grid.Column="5"
+                      Grid.Row="4"/>
+
+            <Button x:Name="btnQuitar"
+                    Style="{StaticResource estiloButtonBase}"
+                    Content="Quitar"
+                    Grid.Column="1"
+                    Grid.ColumnSpan="3"
+                    Grid.Row="6"
+                    Click="btnQuitar_Click"/>
+
+            <Button x:Name="btnCancelar"
+                    Style="{StaticResource estiloButtonBase}"
+                    Content="Cancelar"
+                    Grid.Column="5"
+                    Grid.ColumnSpan="3"
+                    Grid.Row="6"
+                    Click="btnCancelar_Click"/>
+
+            <Button x:Name="btnMinimizar"
+                    Style="{StaticResource estiloBaseMinSalir}"
+                    Content="-"
+                    Grid.Column="9"
+                    Click="btnMinimizar_Click"/>
+
+            <Button x:Name="btnCerrar"
+                    Style="{StaticResource estiloBaseMinSalir}"
+                    Content="x"
+                    Grid.Column="10"
+                    Click="btnCerrar_Click"/>
+        </Grid>
+    </Border>
+</Window>

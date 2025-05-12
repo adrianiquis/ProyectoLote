@@ -1,0 +1,134 @@
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\bin\Debug\CPasteleria.exe.config
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\bin\Debug\CPasteleria.exe
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\bin\Debug\CPasteleria.pdb
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\CPasteleria.csproj.AssemblyReference.cache
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\CustomControls\BindablePasswordBox.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\CustomControls\CustomOkMessageBox.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\CustomControls\CustomYNMessageBox.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\MainWindow.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\CrearTicketView.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\InicioSesionView.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\InicioView.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\InventarioAgregarView.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\InventarioBuscarNombreView.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\InventarioBuscarView.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\InventarioEditarView.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\InventarioMostrarView.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\InventarioQuitarView.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\MenuInicioView.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\MenuInventarioView.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\MenuVentasView.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\RealizarVentaView.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\RegistroView.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\RegistroView1.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\VentasAgregarView.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\VentasCantidadView.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\VentasCarritoView.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\VentasQuitarView.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\VerVentasIdView.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\VerVentasMostrarView.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\VerVentasView.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\App.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\CPasteleria_MarkupCompile.cache
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\CPasteleria_MarkupCompile.lref
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\App.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\CustomControls\BindablePasswordBox.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\CustomControls\CustomOkMessageBox.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\CustomControls\CustomYNMessageBox.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\MainWindow.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\CrearTicketView.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\InicioSesionView.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\InicioView.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\InventarioAgregarView.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\InventarioBuscarNombreView.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\InventarioBuscarView.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\InventarioEditarView.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\InventarioMostrarView.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\InventarioQuitarView.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\MenuInicioView.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\MenuInventarioView.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\MenuVentasView.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\RealizarVentaView.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\RegistroView.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\RegistroView1.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\VentasAgregarView.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\VentasCantidadView.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\VentasCarritoView.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\VentasQuitarView.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\VerVentasIdView.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\VerVentasMostrarView.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\View\VerVentasView.baml
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\CPasteleria.g.resources
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\CPasteleria.Properties.Resources.resources
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\CPasteleria.csproj.GenerateResource.cache
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\CPasteleria.csproj.CoreCompileInputs.cache
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\CPasteleria.exe
+C:\Users\darkd\OneDrive\Escritorio\CPasteleria\obj\Debug\CPasteleria.pdb
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\bin\Debug\CPasteleria.exe.config
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\bin\Debug\CPasteleria.exe
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\bin\Debug\CPasteleria.pdb
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\CPasteleria.csproj.AssemblyReference.cache
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\CustomControls\BindablePasswordBox.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\CustomControls\CustomOkMessageBox.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\CustomControls\CustomYNMessageBox.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\MainWindow.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\CrearTicketView.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\InicioSesionView.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\InicioView.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\InventarioAgregarView.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\InventarioBuscarNombreView.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\InventarioBuscarView.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\InventarioEditarView.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\InventarioMostrarView.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\InventarioQuitarView.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\MenuInicioView.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\MenuInventarioView.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\MenuVentasView.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\RealizarVentaView.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\RegistroView.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\RegistroView1.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\VentasAgregarView.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\VentasCantidadView.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\VentasCarritoView.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\VentasQuitarView.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\VerVentasIdView.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\VerVentasMostrarView.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\VerVentasView.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\App.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\CPasteleria_MarkupCompile.cache
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\CPasteleria_MarkupCompile.lref
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\App.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\CustomControls\BindablePasswordBox.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\CustomControls\CustomOkMessageBox.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\CustomControls\CustomYNMessageBox.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\MainWindow.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\CrearTicketView.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\InicioSesionView.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\InicioView.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\InventarioAgregarView.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\InventarioBuscarNombreView.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\InventarioBuscarView.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\InventarioEditarView.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\InventarioMostrarView.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\InventarioQuitarView.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\MenuInicioView.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\MenuInventarioView.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\MenuVentasView.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\RealizarVentaView.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\RegistroView.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\RegistroView1.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\VentasAgregarView.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\VentasCantidadView.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\VentasCarritoView.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\VentasQuitarView.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\VerVentasIdView.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\VerVentasMostrarView.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\View\VerVentasView.baml
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\CPasteleria.g.resources
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\CPasteleria.Properties.Resources.resources
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\CPasteleria.csproj.GenerateResource.cache
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\CPasteleria.csproj.CoreCompileInputs.cache
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\CPasteleria.exe
+D:\Nani's documents\Documents\Uni\CPasteleria V1.0\CPasteleria\obj\Debug\CPasteleria.pdb

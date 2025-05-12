@@ -1,0 +1,95 @@
+﻿<Window x:Class="CPasteleria.View.MenuVentasView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CPasteleria.View"
+        mc:Ignorable="d"
+        Title="Menú ventas" Height="540" Width="960"
+        WindowStyle="None"
+         WindowStartupLocation="CenterScreen"
+        Background="Transparent"
+        AllowsTransparency="True">
+    <Border CornerRadius="15">
+        <Border.Background>
+            <ImageBrush ImageSource="/Images/Backgrounds/FondoSegundo.png"/>
+        </Border.Background>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="24"/>
+                <RowDefinition Height="128"/>
+                <RowDefinition Height="23"/>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="23"/>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="23"/>
+                <RowDefinition Height="80"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="197"/>
+                <ColumnDefinition Width="27"/>
+                <ColumnDefinition Width="121"/>
+                <ColumnDefinition Width="122"/>
+                <ColumnDefinition Width="26"/>
+                <ColumnDefinition Width="122"/>
+                <ColumnDefinition Width="120"/>
+                <ColumnDefinition Width="28"/>
+                <ColumnDefinition Width="127"/>
+                <ColumnDefinition Width="30"/>
+                <ColumnDefinition Width="30"/>
+            </Grid.ColumnDefinitions>
+            
+            <ContentControl x:Name="Titulo"
+                            Content="Menú de ventas"
+                            Style="{StaticResource estiloTitulos}"
+                            Grid.Column="2"
+                            Grid.ColumnSpan="5"
+                            Grid.Row="2"/>
+            
+            <Button x:Name="btnSalir"
+                    Content="x"
+                    Style="{StaticResource estiloBaseMinSalir}"
+                    Grid.Column="10"
+                    Click="btnSalir_Click"/>
+
+            <Button x:Name="btnMinimizar"
+                    Content="-"
+                    Style="{StaticResource estiloBaseMinSalir}"
+                    Grid.Column="9"
+                    Click="btnMinimizar_Click"/>
+
+            <Button x:Name="btnRealizarVenta"
+                    Style="{StaticResource estiloButtonBase}"
+                    Content="Realizar Venta"
+                    Grid.Column="1"
+                    Grid.ColumnSpan="3"
+                    Grid.Row="4"
+                    Click="btnRealizarVenta_Click"/>
+
+            <Button x:Name="btnCrearTicket"
+                    Style="{StaticResource estiloButtonBase}"
+                    Content="Crear ticket"
+                    Grid.Column="5"
+                    Grid.ColumnSpan="3"
+                    Grid.Row="4"
+                    Click="btnCrearTicket_Click"/>
+
+            <Button x:Name="btnVerVentas"
+                    Style="{StaticResource estiloButtonBase}"
+                    Content="Ver ventas"
+                    Grid.Column="3"
+                    Grid.ColumnSpan="3"
+                    Grid.Row="6"
+                    Click="btnVerVentas_Click"/>
+
+            <Button x:Name="btnRegresar"
+                    Style="{StaticResource estiloButtonBase}"
+                    Content="Regresar"
+                    Grid.Column="3"
+                    Grid.ColumnSpan="3"
+                    Grid.Row="8"
+                    Click="btnRegresar_Click"/>
+        </Grid>
+    </Border>
+</Window>

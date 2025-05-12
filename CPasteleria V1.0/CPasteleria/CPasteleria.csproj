@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CPasteleria</RootNamespace>
+    <AssemblyName>CPasteleria</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="CustomControls\BindablePasswordBox.xaml.cs">
+      <DependentUpon>BindablePasswordBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CustomControls\CustomOkMessageBox.xaml.cs">
+      <DependentUpon>CustomOkMessageBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CustomControls\CustomYNMessageBox.xaml.cs">
+      <DependentUpon>CustomYNMessageBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Model\CarritoModel.cs" />
+    <Compile Include="Model\DetalleVentaModel.cs" />
+    <Compile Include="Model\EmpleadoModel.cs" />
+    <Compile Include="Repositories\CarritoRepository.cs" />
+    <Compile Include="Repositories\DetalleVentaRepository.cs" />
+    <Compile Include="Repositories\ICarritoRepository.cs" />
+    <Compile Include="Repositories\IDetalleVentaRepository.cs" />
+    <Compile Include="Repositories\IPastelRepository.cs" />
+    <Compile Include="Repositories\IVentaRepository.cs" />
+    <Compile Include="Model\PastelModel.cs" />
+    <Compile Include="Model\VentaModel.cs" />
+    <Compile Include="Repositories\EmpleadoRepository.cs" />
+    <Compile Include="Repositories\IEmpleadoRepository.cs" />
+    <Compile Include="Repositories\PastelRepository.cs" />
+    <Compile Include="Repositories\RepositoryBase.cs" />
+    <Compile Include="Repositories\VentaRepository.cs" />
+    <Compile Include="ViewModel\LoginViewModel.cs" />
+    <Compile Include="ViewModel\MainViewModel.cs" />
+    <Compile Include="ViewModel\ViewModelBase.cs" />
+    <Compile Include="ViewModel\ViewModelCommand.cs" />
+    <Compile Include="View\CrearTicketView.xaml.cs">
+      <DependentUpon>CrearTicketView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\InicioSesionView.xaml.cs">
+      <DependentUpon>InicioSesionView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\InicioView.xaml.cs">
+      <DependentUpon>InicioView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\InventarioAgregarView.xaml.cs">
+      <DependentUpon>InventarioAgregarView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\InventarioBuscarNombreView.xaml.cs">
+      <DependentUpon>InventarioBuscarNombreView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\InventarioBuscarView.xaml.cs">
+      <DependentUpon>InventarioBuscarView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\InventarioEditarView.xaml.cs">
+      <DependentUpon>InventarioEditarView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\InventarioMostrarView.xaml.cs">
+      <DependentUpon>InventarioMostrarView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\InventarioQuitarView.xaml.cs">
+      <DependentUpon>InventarioQuitarView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\MenuInicioView.xaml.cs">
+      <DependentUpon>MenuInicioView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\MenuInventarioView.xaml.cs">
+      <DependentUpon>MenuInventarioView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\MenuVentasView.xaml.cs">
+      <DependentUpon>MenuVentasView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\RealizarVentaView.xaml.cs">
+      <DependentUpon>RealizarVentaView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\RegistroView.xaml.cs">
+      <DependentUpon>RegistroView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\RegistroView1.xaml.cs">
+      <DependentUpon>RegistroView1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\VentasAgregarView.xaml.cs">
+      <DependentUpon>VentasAgregarView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\VentasCantidadView.xaml.cs">
+      <DependentUpon>VentasCantidadView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\VentasCarritoView.xaml.cs">
+      <DependentUpon>VentasCarritoView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\VentasQuitarView.xaml.cs">
+      <DependentUpon>VentasQuitarView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\VerVentasIdView.xaml.cs">
+      <DependentUpon>VerVentasIdView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\VerVentasMostrarView.xaml.cs">
+      <DependentUpon>VerVentasMostrarView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\VerVentasView.xaml.cs">
+      <DependentUpon>VerVentasView.xaml</DependentUpon>
+    </Compile>
+    <Page Include="CustomControls\BindablePasswordBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CustomControls\CustomOkMessageBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CustomControls\CustomYNMessageBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="View\CrearTicketView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\InicioSesionView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\InicioView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\InventarioAgregarView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\InventarioBuscarNombreView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\InventarioBuscarView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\InventarioEditarView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\InventarioMostrarView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\InventarioQuitarView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\MenuInicioView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\MenuInventarioView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\MenuVentasView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\RealizarVentaView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\RegistroView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\RegistroView1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\VentasAgregarView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\VentasCantidadView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\VentasCarritoView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\VentasQuitarView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\VerVentasIdView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\VerVentasMostrarView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\VerVentasView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Images\Backgrounds\FondoInicio.png" />
+    <Resource Include="Images\Backgrounds\FondoSegundo.png" />
+    <Resource Include="Images\Backgrounds\FondoTercero.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="favicon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Backgrounds\FondoMessageBox.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\informationIcon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

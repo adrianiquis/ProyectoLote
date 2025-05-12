@@ -1,0 +1,614 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\repositories\\carritorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\repositories\\carritorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\view\\inventariomostrarview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\inventariomostrarview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\view\\inventariomostrarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\inventariomostrarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\view\\menuinicioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\menuinicioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\view\\iniciosesionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\iniciosesionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\customcontrols\\customynmessagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\customcontrols\\customynmessagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\view\\menuventasview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\menuventasview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\view\\inventariobuscarview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\inventariobuscarview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\view\\inventariobuscarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\inventariobuscarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\view\\menuinventarioview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\menuinventarioview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\view\\menuinventarioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\menuinventarioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\view\\verventasidview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\verventasidview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\view\\ventascantidadview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\ventascantidadview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\view\\ventascarritoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\ventascarritoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\view\\realizarventaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\realizarventaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\view\\inicioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\inicioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\view\\inventarioagregarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\inventarioagregarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\view\\inventariobuscarnombreview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\inventariobuscarnombreview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\view\\inventarioeditarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\inventarioeditarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\view\\inventarioquitarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\view\\inventarioquitarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\images\\backgrounds\\fondoinicio.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\images\\backgrounds\\fondoinicio.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\images\\backgrounds\\fondomessagebox.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\images\\backgrounds\\fondomessagebox.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\images\\backgrounds\\fondosegundo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\images\\backgrounds\\fondosegundo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\images\\backgrounds\\fondotercero.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\images\\backgrounds\\fondotercero.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\model\\carritomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\model\\carritomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\model\\detalleventamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\model\\detalleventamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\model\\empleadomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\model\\empleadomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\model\\pastelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\model\\pastelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\model\\ventamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\model\\ventamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\repositories\\detalleventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\repositories\\detalleventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\repositories\\pastelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\repositories\\pastelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\repositories\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\repositories\\empleadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\customcontrols\\customokmessagebox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\customcontrols\\customokmessagebox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\customcontrols\\customynmessagebox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\customcontrols\\customynmessagebox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\customcontrols\\customokmessagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\customcontrols\\customokmessagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|d:\\nani\u0027s documents\\documents\\uni\\cpasteleria v1.0\\cpasteleria\\customcontrols\\bindablepasswordbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05C331BF-7B24-48D0-84BF-07CAB59BCA6E}|CPasteleria\\CPasteleria.csproj|solutionrelative:cpasteleria\\customcontrols\\bindablepasswordbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuInicioView.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\MenuInicioView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\MenuInicioView.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\MenuInicioView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\MenuInicioView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T00:43:14.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InicioSesionView.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\InicioSesionView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\InicioSesionView.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\InicioSesionView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\InicioSesionView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T00:41:49.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventarioMostrarView.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\InventarioMostrarView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\InventarioMostrarView.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\InventarioMostrarView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\InventarioMostrarView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:21:05.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventarioMostrarView.xaml.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\InventarioMostrarView.xaml.cs",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\InventarioMostrarView.xaml.cs",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\InventarioMostrarView.xaml.cs",
+              "RelativeToolTip": "CPasteleria\\View\\InventarioMostrarView.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:58:51.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuVentasView.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\MenuVentasView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\MenuVentasView.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\MenuVentasView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\MenuVentasView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T00:00:34.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarritoRepository.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Repositories\\CarritoRepository.cs",
+              "RelativeDocumentMoniker": "CPasteleria\\Repositories\\CarritoRepository.cs",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Repositories\\CarritoRepository.cs",
+              "RelativeToolTip": "CPasteleria\\Repositories\\CarritoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:05:55.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomYNMessageBox.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\CustomControls\\CustomYNMessageBox.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\CustomControls\\CustomYNMessageBox.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\CustomControls\\CustomYNMessageBox.xaml",
+              "RelativeToolTip": "CPasteleria\\CustomControls\\CustomYNMessageBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:01:10.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "View\\InventarioBuscarView.xaml.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\InventarioBuscarView.xaml.cs",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\InventarioBuscarView.xaml.cs",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\InventarioBuscarView.xaml.cs",
+              "RelativeToolTip": "CPasteleria\\View\\InventarioBuscarView.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:57:55.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "View\\MenuInventarioView.xaml.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\MenuInventarioView.xaml.cs",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\MenuInventarioView.xaml.cs",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\MenuInventarioView.xaml.cs",
+              "RelativeToolTip": "CPasteleria\\View\\MenuInventarioView.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:57:30.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuInventarioView.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\MenuInventarioView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\MenuInventarioView.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\MenuInventarioView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\MenuInventarioView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:57:24.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VerVentasIdView.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\VerVentasIdView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\VerVentasIdView.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\VerVentasIdView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\VerVentasIdView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:21:38.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VentasCantidadView.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\VentasCantidadView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\VentasCantidadView.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\VentasCantidadView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\VentasCantidadView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:21:33.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventarioBuscarView.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\InventarioBuscarView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\InventarioBuscarView.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\InventarioBuscarView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\InventarioBuscarView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:21:11.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VentasCarritoView.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\VentasCarritoView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\VentasCarritoView.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\VentasCarritoView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\VentasCarritoView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:21:30.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RealizarVentaView.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\RealizarVentaView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\RealizarVentaView.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\RealizarVentaView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\RealizarVentaView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:21:25.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InicioView.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\InicioView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\InicioView.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\InicioView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\InicioView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:21:22.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InventarioAgregarView.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\InventarioAgregarView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\InventarioAgregarView.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\InventarioAgregarView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\InventarioAgregarView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:21:17.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InventarioBuscarNombreView.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\InventarioBuscarNombreView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\InventarioBuscarNombreView.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\InventarioBuscarNombreView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\InventarioBuscarNombreView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:21:14.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InventarioEditarView.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\InventarioEditarView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\InventarioEditarView.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\InventarioEditarView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\InventarioEditarView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:21:08.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InventarioQuitarView.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\InventarioQuitarView.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\View\\InventarioQuitarView.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\View\\InventarioQuitarView.xaml",
+              "RelativeToolTip": "CPasteleria\\View\\InventarioQuitarView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:21:01.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FondoInicio.png - PNG [1920x1080, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Images\\Backgrounds\\FondoInicio.png",
+              "RelativeDocumentMoniker": "CPasteleria\\Images\\Backgrounds\\FondoInicio.png",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Images\\Backgrounds\\FondoInicio.png - PNG [1920x1080, 32 bit, PNG]",
+              "RelativeToolTip": "CPasteleria\\Images\\Backgrounds\\FondoInicio.png - PNG [1920x1080, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-11T22:18:42.537Z",
+              "EditorCaption": " - PNG [1920x1080, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FondoMessageBox.png - PNG [1920x1080, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Images\\Backgrounds\\FondoMessageBox.png",
+              "RelativeDocumentMoniker": "CPasteleria\\Images\\Backgrounds\\FondoMessageBox.png",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Images\\Backgrounds\\FondoMessageBox.png - PNG [1920x1080, 32 bit, PNG]",
+              "RelativeToolTip": "CPasteleria\\Images\\Backgrounds\\FondoMessageBox.png - PNG [1920x1080, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-11T22:18:41.222Z",
+              "EditorCaption": " - PNG [1920x1080, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FondoSegundo.png - PNG [1920x1080, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Images\\Backgrounds\\FondoSegundo.png",
+              "RelativeDocumentMoniker": "CPasteleria\\Images\\Backgrounds\\FondoSegundo.png",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Images\\Backgrounds\\FondoSegundo.png - PNG [1920x1080, 32 bit, PNG]",
+              "RelativeToolTip": "CPasteleria\\Images\\Backgrounds\\FondoSegundo.png - PNG [1920x1080, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-11T22:18:39.852Z",
+              "EditorCaption": " - PNG [1920x1080, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FondoTercero.png - PNG [1920x1080, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Images\\Backgrounds\\FondoTercero.png",
+              "RelativeDocumentMoniker": "CPasteleria\\Images\\Backgrounds\\FondoTercero.png",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Images\\Backgrounds\\FondoTercero.png - PNG [1920x1080, 32 bit, PNG]",
+              "RelativeToolTip": "CPasteleria\\Images\\Backgrounds\\FondoTercero.png - PNG [1920x1080, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-11T22:18:37.96Z",
+              "EditorCaption": " - PNG [1920x1080, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DetalleVentaRepository.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Repositories\\DetalleVentaRepository.cs",
+              "RelativeDocumentMoniker": "CPasteleria\\Repositories\\DetalleVentaRepository.cs",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Repositories\\DetalleVentaRepository.cs",
+              "RelativeToolTip": "CPasteleria\\Repositories\\DetalleVentaRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:09:40.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DetalleVentaModel.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Model\\DetalleVentaModel.cs",
+              "RelativeDocumentMoniker": "CPasteleria\\Model\\DetalleVentaModel.cs",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Model\\DetalleVentaModel.cs",
+              "RelativeToolTip": "CPasteleria\\Model\\DetalleVentaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:04:08.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CarritoModel.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Model\\CarritoModel.cs",
+              "RelativeDocumentMoniker": "CPasteleria\\Model\\CarritoModel.cs",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Model\\CarritoModel.cs",
+              "RelativeToolTip": "CPasteleria\\Model\\CarritoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:03:53.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PastelModel.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Model\\PastelModel.cs",
+              "RelativeDocumentMoniker": "CPasteleria\\Model\\PastelModel.cs",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Model\\PastelModel.cs",
+              "RelativeToolTip": "CPasteleria\\Model\\PastelModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:04:22.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmpleadoModel.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Model\\EmpleadoModel.cs",
+              "RelativeDocumentMoniker": "CPasteleria\\Model\\EmpleadoModel.cs",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Model\\EmpleadoModel.cs",
+              "RelativeToolTip": "CPasteleria\\Model\\EmpleadoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:04:17.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "VentaModel.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Model\\VentaModel.cs",
+              "RelativeDocumentMoniker": "CPasteleria\\Model\\VentaModel.cs",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Model\\VentaModel.cs",
+              "RelativeToolTip": "CPasteleria\\Model\\VentaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:04:25.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PastelRepository.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Repositories\\PastelRepository.cs",
+              "RelativeDocumentMoniker": "CPasteleria\\Repositories\\PastelRepository.cs",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Repositories\\PastelRepository.cs",
+              "RelativeToolTip": "CPasteleria\\Repositories\\PastelRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:10:10.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EmpleadoRepository.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Repositories\\EmpleadoRepository.cs",
+              "RelativeDocumentMoniker": "CPasteleria\\Repositories\\EmpleadoRepository.cs",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\Repositories\\EmpleadoRepository.cs",
+              "RelativeToolTip": "CPasteleria\\Repositories\\EmpleadoRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:09:56.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CustomOkMessageBox.xaml.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\CustomControls\\CustomOkMessageBox.xaml.cs",
+              "RelativeDocumentMoniker": "CPasteleria\\CustomControls\\CustomOkMessageBox.xaml.cs",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\CustomControls\\CustomOkMessageBox.xaml.cs",
+              "RelativeToolTip": "CPasteleria\\CustomControls\\CustomOkMessageBox.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:02:22.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CustomYNMessageBox.xaml.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\CustomControls\\CustomYNMessageBox.xaml.cs",
+              "RelativeDocumentMoniker": "CPasteleria\\CustomControls\\CustomYNMessageBox.xaml.cs",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\CustomControls\\CustomYNMessageBox.xaml.cs",
+              "RelativeToolTip": "CPasteleria\\CustomControls\\CustomYNMessageBox.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:01:41.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CustomOkMessageBox.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\CustomControls\\CustomOkMessageBox.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\CustomControls\\CustomOkMessageBox.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\CustomControls\\CustomOkMessageBox.xaml",
+              "RelativeToolTip": "CPasteleria\\CustomControls\\CustomOkMessageBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T22:00:07.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BindablePasswordBox.xaml",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\CustomControls\\BindablePasswordBox.xaml",
+              "RelativeDocumentMoniker": "CPasteleria\\CustomControls\\BindablePasswordBox.xaml",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\CPasteleria V1.0\\CPasteleria\\CustomControls\\BindablePasswordBox.xaml",
+              "RelativeToolTip": "CPasteleria\\CustomControls\\BindablePasswordBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T21:57:55.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
