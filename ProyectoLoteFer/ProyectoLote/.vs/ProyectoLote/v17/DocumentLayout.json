@@ -7,16 +7,24 @@
       "RelativeMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\repositories\\comprarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote\\proyectolotefer\\proyectolote\\proyectolote\\repositories\\icomprarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\repositories\\icomprarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote\\proyectolotefer\\proyectolote\\proyectolote\\model\\compramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\model\\compramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote\\proyectolotefer\\proyectolote\\proyectolote\\repositories\\vendedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\repositories\\vendedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote\\proyectolotefer\\proyectolote\\proyectolote\\repositories\\ivendedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\repositories\\ivendedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote\\proyectolotefer\\proyectolote\\proyectolote\\model\\vendedormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\model\\vendedormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote\\proyectolotefer\\proyectolote\\proyectolote\\repositories\\icomprarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\repositories\\icomprarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote\\proyectolotefer\\proyectolote\\proyectolote\\view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -29,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote\\proyectolotefer\\proyectolote\\proyectolote\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote\\proyectolotefer\\proyectolote\\proyectolote\\repositories\\ivendedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\repositories\\ivendedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote\\proyectolotefer\\proyectolote\\proyectolote\\repositories\\vendedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|solutionrelative:proyectolote\\repositories\\vendedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DE50907-DE1C-4C8E-84A5-6B0E0CE4047F}|ProyectoLote\\ProyectoLote.csproj|d:\\nani\u0027s documents\\documents\\uni\\proyectovaneequipo\\proyectolote\\proyectolotefer\\proyectolote\\proyectolote\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,7 +110,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VendedorRepository.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Repositories\\VendedorRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoLote\\Repositories\\VendedorRepository.cs",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Repositories\\VendedorRepository.cs",
+              "RelativeToolTip": "ProyectoLote\\Repositories\\VendedorRepository.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwBUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:46:10.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CompraModel.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Model\\CompraModel.cs",
+              "RelativeDocumentMoniker": "ProyectoLote\\Model\\CompraModel.cs",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Model\\CompraModel.cs",
+              "RelativeToolTip": "ProyectoLote\\Model\\CompraModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:07:49.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompraRepository.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Repositories\\CompraRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoLote\\Repositories\\CompraRepository.cs",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Repositories\\CompraRepository.cs",
+              "RelativeToolTip": "ProyectoLote\\Repositories\\CompraRepository.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAA5wH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:09:20.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVendedorRepository.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Repositories\\IVendedorRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoLote\\Repositories\\IVendedorRepository.cs",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Repositories\\IVendedorRepository.cs",
+              "RelativeToolTip": "ProyectoLote\\Repositories\\IVendedorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:52:33.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VendedorModel.cs",
+              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Model\\VendedorModel.cs",
+              "RelativeDocumentMoniker": "ProyectoLote\\Model\\VendedorModel.cs",
+              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Model\\VendedorModel.cs",
+              "RelativeToolTip": "ProyectoLote\\Model\\VendedorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:22:31.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ICompraRepository.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Repositories\\ICompraRepository.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\Repositories\\ICompraRepository.cs",
@@ -122,44 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CompraRepository.cs",
-              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Repositories\\CompraRepository.cs",
-              "RelativeDocumentMoniker": "ProyectoLote\\Repositories\\CompraRepository.cs",
-              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Repositories\\CompraRepository.cs",
-              "RelativeToolTip": "ProyectoLote\\Repositories\\CompraRepository.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAA3wCEAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T07:09:20.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CompraModel.cs",
-              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Model\\CompraModel.cs",
-              "RelativeDocumentMoniker": "ProyectoLote\\Model\\CompraModel.cs",
-              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Model\\CompraModel.cs",
-              "RelativeToolTip": "ProyectoLote\\Model\\CompraModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T07:07:49.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VendedorModel.cs",
-              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Model\\VendedorModel.cs",
-              "RelativeDocumentMoniker": "ProyectoLote\\Model\\VendedorModel.cs",
-              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Model\\VendedorModel.cs",
-              "RelativeToolTip": "ProyectoLote\\Model\\VendedorModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T05:22:31.853Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "LoginView.xaml",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\LoginView.xaml",
               "RelativeDocumentMoniker": "ProyectoLote\\View\\LoginView.xaml",
@@ -170,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "BindablePasswordBox.xaml",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\CustomControl\\BindablePasswordBox.xaml",
               "RelativeDocumentMoniker": "ProyectoLote\\CustomControl\\BindablePasswordBox.xaml",
@@ -182,30 +210,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "VendedorRepository.cs",
-              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Repositories\\VendedorRepository.cs",
-              "RelativeDocumentMoniker": "ProyectoLote\\Repositories\\VendedorRepository.cs",
-              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Repositories\\VendedorRepository.cs",
-              "RelativeToolTip": "ProyectoLote\\Repositories\\VendedorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T05:46:10.495Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IVendedorRepository.cs",
-              "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Repositories\\IVendedorRepository.cs",
-              "RelativeDocumentMoniker": "ProyectoLote\\Repositories\\IVendedorRepository.cs",
-              "ToolTip": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\Repositories\\IVendedorRepository.cs",
-              "RelativeToolTip": "ProyectoLote\\Repositories\\IVendedorRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T05:52:33.244Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "LoginView.xaml.cs",
               "DocumentMoniker": "D:\\Nani\u0027s documents\\Documents\\Uni\\proyectoVaneEquipo\\ProyectoLote\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\View\\LoginView.xaml.cs",
               "RelativeDocumentMoniker": "ProyectoLote\\View\\LoginView.xaml.cs",
