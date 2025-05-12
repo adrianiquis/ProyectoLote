@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoLote")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+130851b99e87bd3854526b6274680b6211132f32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daf55466875a6e39f734d81b817697891a5aff69")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoLote")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoLote")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

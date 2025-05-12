@@ -37,5 +37,10 @@ namespace ProyectoLote.View
         {
 
         }
+
+        private void BindablePasswordBox_Loaded_1(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
