@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -87,9 +87,6 @@
     <Compile Include="ViewModel\MainViewModel.cs" />
     <Compile Include="ViewModel\ViewModelBase.cs" />
     <Compile Include="ViewModel\ViewModelCommand.cs" />
-    <Compile Include="View\CrearTicketView.xaml.cs">
-      <DependentUpon>CrearTicketView.xaml</DependentUpon>
-    </Compile>
     <Compile Include="View\InicioSesionView.xaml.cs">
       <DependentUpon>InicioSesionView.xaml</DependentUpon>
     </Compile>
@@ -102,56 +99,17 @@
     <Compile Include="View\InventarioBuscarNombreView.xaml.cs">
       <DependentUpon>InventarioBuscarNombreView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="View\InventarioBuscarView.xaml.cs">
-      <DependentUpon>InventarioBuscarView.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="View\InventarioEditarView.xaml.cs">
-      <DependentUpon>InventarioEditarView.xaml</DependentUpon>
-    </Compile>
     <Compile Include="View\InventarioMostrarView.xaml.cs">
       <DependentUpon>InventarioMostrarView.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="View\InventarioQuitarView.xaml.cs">
-      <DependentUpon>InventarioQuitarView.xaml</DependentUpon>
     </Compile>
     <Compile Include="View\MenuInicioView.xaml.cs">
       <DependentUpon>MenuInicioView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="View\MenuInventarioView.xaml.cs">
-      <DependentUpon>MenuInventarioView.xaml</DependentUpon>
-    </Compile>
     <Compile Include="View\MenuVentasView.xaml.cs">
       <DependentUpon>MenuVentasView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="View\RealizarVentaView.xaml.cs">
-      <DependentUpon>RealizarVentaView.xaml</DependentUpon>
-    </Compile>
     <Compile Include="View\RegistroView.xaml.cs">
       <DependentUpon>RegistroView.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="View\RegistroView1.xaml.cs">
-      <DependentUpon>RegistroView1.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="View\VentasAgregarView.xaml.cs">
-      <DependentUpon>VentasAgregarView.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="View\VentasCantidadView.xaml.cs">
-      <DependentUpon>VentasCantidadView.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="View\VentasCarritoView.xaml.cs">
-      <DependentUpon>VentasCarritoView.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="View\VentasQuitarView.xaml.cs">
-      <DependentUpon>VentasQuitarView.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="View\VerVentasIdView.xaml.cs">
-      <DependentUpon>VerVentasIdView.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="View\VerVentasMostrarView.xaml.cs">
-      <DependentUpon>VerVentasMostrarView.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="View\VerVentasView.xaml.cs">
-      <DependentUpon>VerVentasView.xaml</DependentUpon>
     </Compile>
     <Page Include="CustomControls\BindablePasswordBox.xaml">
       <SubType>Designer</SubType>
@@ -177,10 +135,6 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="View\CrearTicketView.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="View\InicioSesionView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -197,19 +151,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="View\InventarioBuscarView.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="View\InventarioEditarView.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="View\InventarioMostrarView.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="View\InventarioQuitarView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -217,51 +159,11 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="View\MenuInventarioView.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="View\MenuVentasView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="View\RealizarVentaView.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="View\RegistroView.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="View\RegistroView1.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="View\VentasAgregarView.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="View\VentasCantidadView.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="View\VentasCarritoView.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="View\VentasQuitarView.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="View\VerVentasIdView.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="View\VerVentasMostrarView.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="View\VerVentasView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
