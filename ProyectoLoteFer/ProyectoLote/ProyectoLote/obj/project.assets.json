@@ -178,11 +178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Nani's documents\\Documents\\Uni\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\ProyectoLote.csproj",
+      "projectUniqueName": "D:\\Nani's documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\ProyectoLote.csproj",
       "projectName": "ProyectoLote",
-      "projectPath": "D:\\Nani's documents\\Documents\\Uni\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\ProyectoLote.csproj",
+      "projectPath": "D:\\Nani's documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\ProyectoLote.csproj",
       "packagesPath": "C:\\Users\\elsae\\.nuget\\packages\\",
-      "outputPath": "D:\\Nani's documents\\Documents\\Uni\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\obj\\",
+      "outputPath": "D:\\Nani's documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

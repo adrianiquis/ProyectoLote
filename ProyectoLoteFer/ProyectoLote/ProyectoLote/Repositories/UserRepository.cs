@@ -25,9 +25,9 @@ namespace ProyectoLote.Repositories
             {
                 connection.Open();
                 command.Connection = connection;
-                command.CommandText = "select * from [User] where username=@username and [password]=@password";
-                command.Parameters.Add("@username", System.Data.SqlDbType.NVarChar).Value = credential.UserName;
-                command.Parameters.Add("@password", System.Data.SqlDbType.NVarChar).Value = credential.Password;
+                command.CommandText = "select * from [Usuarios] where usuario=@usuario and [contrasenia]=@contrasenia";
+                command.Parameters.Add("@usuario", System.Data.SqlDbType.NVarChar).Value = credential.UserName;
+                command.Parameters.Add("@contrasenia", System.Data.SqlDbType.NVarChar).Value = credential.Password;
                 validUser = command.ExecuteScalar() == null ? false : true;
                 return validUser;
             }
@@ -38,17 +38,17 @@ namespace ProyectoLote.Repositories
             throw new NotImplementedException();
         }
 
-        public UserModel GetById(int id)
+        public UserModel GetById(int usuario)
         {
             throw new NotImplementedException();
         }
 
-        public UserModel GetByUsername(string username)
+        public UserModel GetByUsername(string usuario)
         {
             throw new NotImplementedException();
         }
 
-        public void Remove(int id)
+        public void Remove(int usuario)
         {
             throw new NotImplementedException();
         }

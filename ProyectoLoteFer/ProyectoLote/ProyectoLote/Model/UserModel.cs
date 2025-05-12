@@ -8,16 +8,13 @@ namespace ProyectoLote.Model
 {
     public class UserModel
     {
-        public string Id { get; set; }
-        public string Username { get; set; }
+        public string usuario { get; set; }
 
-        public string Password { get; set; } 
+        public string nombre { get; set; } 
         
-        public string Name { get; set; }
+        public string correo { get; set; }
 
-        public string LastName { get; set; }
-
-        public string Email { get; set; }
+        public string contrasena { get; set; }
     }
 
 }

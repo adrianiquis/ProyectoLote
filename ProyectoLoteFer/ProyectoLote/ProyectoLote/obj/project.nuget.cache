@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p4fJvDanCb4=",
+  "dgSpecHash": "SaNs/E6Dk+k=",
   "success": true,
-  "projectFilePath": "D:\\Nani's documents\\Documents\\Uni\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\ProyectoLote.csproj",
+  "projectFilePath": "D:\\Nani's documents\\Documents\\Uni\\ProyectoVaneEquipo\\ProyectoLoteFer\\ProyectoLote\\ProyectoLote\\ProyectoLote.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elsae\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\elsae\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

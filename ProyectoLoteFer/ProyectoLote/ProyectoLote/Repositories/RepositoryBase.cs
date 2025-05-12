@@ -17,7 +17,7 @@ namespace ProyectoLote.Repositories
         public RepositoryBase()
         {
             _connectionString = "Server = ADRIANUQUIS\\VSGESTION; " +
-                "Database=Lote; " +
+                "Database=LoteFer; " +
                 "Integrated Security = true";
 
         }
